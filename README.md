@@ -1,2 +1,3 @@
 # tetris
-Tetris
+Tetris game built with python using pygame
+
